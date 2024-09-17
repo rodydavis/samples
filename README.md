@@ -2,6 +2,11 @@
 
 [![Build Status](https://github.com/flutter/samples/workflows/Main%20Branch%20CI/badge.svg)](https://github.com/flutter/samples/actions?workflow=Main%20Branch%20CI)
 
+<a href="https://idx.google.com/new?template=https://github.com/flutter/samples">
+  <img height="32" alt="Try in IDX" src="https://cdn.idx.dev/btn/try_dark_32.svg">
+</a>
+
+
 A collection of open source samples that illustrate best practices for
 [Flutter](https://flutter.dev).
 
